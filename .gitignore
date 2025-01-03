@@ -1,0 +1,32 @@
+# ignore makefiles and binary files
+*.pyd
+*.so
+*.dll
+*.exe
+*.lib
+*.exp
+*.obj
+*.o
+
+# ignore temp files
+*.tmp
+*.log
+*.bak
+*.swp
+*.pyc
+*.pyo
+
+# ignore project build directories and IDE
+/build/
+dist/
+__pycache__/
+*.vs/
+.vscode/
+.idea/
+
+# ignore temp files and directories IDE (Visual Studio, CLion, etc.)
+*.user
+*.suo
+*.userosscache
+*.VC.db
+.vs/
