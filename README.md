@@ -7,6 +7,9 @@ The `MyString` class was developed in C++ and then wrapped for Python usage, all
 
 This project was developed as an educational exercise for the "Object-Oriented Programming" course at Peter the Great St. Petersburg Polytechnic University (SPbPU) and is not intended for ongoing support or modification.
 
+## Pseudo UML-diagram of MyString class
+![Pseudo UML-diagram of MyString class](Screenshot.png)
+
 ## Main Features
 - Support for constructors to create strings from various data types (C-strings, `std::string`, characters, etc.)
 - Overloaded operators:
